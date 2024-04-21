@@ -1,6 +1,6 @@
 # Hundir la flota
 
-## Recreación del famoso juego de barcos utilizando Python y Numpy como base para su programación.
+Recreación del famoso juego de barcos utilizando **Python** y **Numpy** como base para su programación.
 
 La **lógica del script** funciona de forma análoga al juego original:
 1. Distribución de los barcos en cada tablero
